@@ -1,4 +1,4 @@
-FindMinElemOfArray. Pascal Tutorials. Platform DotNet FrameWork. Arrays. Algorithms. Simple Input/Output. Console Application. 
+FindMinElemOfArray. Pascal Tutorials. Platform DotNet FrameWork. Arrays. Algorithms. Simple Input/Output. Console Application.
 The console application project is written in Pascal using the PascalABCDotNet integrated development environment. 
 It features simple input/output. It also handles arrays and random numbers. Finding the minimum element in an array is also possible.
 The program does the following:
